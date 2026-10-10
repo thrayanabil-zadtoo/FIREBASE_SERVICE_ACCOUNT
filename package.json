@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "darb-platform",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.1",
+  "description": "منظومة دَرْب الشاملة للتكامل الاقتصادي والسيادي العربي",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
