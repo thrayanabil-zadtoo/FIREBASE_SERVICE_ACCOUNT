@@ -1,0 +1,12 @@
+﻿country_code,currency,usd_rate,rate_type,reference_date,publication_status
+AE,AED,3.6725,reference,2026-09-19,pending_review
+SA,SAR,3.75,reference,2026-09-19,pending_review
+QA,QAR,3.64,reference,2026-09-19,pending_review
+OM,OMR,0.3845,reference,2026-09-19,pending_review
+KW,KWD,0.307350,reference,2026-09-17,pending_review
+BH,BHD,0.376,reference_approx,2026-09-19,pending_review
+JO,JOD,0.709,reference_approx,2026-09-19,pending_review
+DZ,DZD,133.6456,IMF_reference,2026-09-17,pending_review
+PS,ILS,3.038,IMF_reference,2026-09-17,pending_review
+DJ,DJF,177.72,reference_approx,2026-09-19,pending_review
+KM,KMF,450,reference_approx,2026-09-19,pending_review

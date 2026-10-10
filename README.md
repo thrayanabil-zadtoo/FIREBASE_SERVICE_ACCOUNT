@@ -1,11 +1,28 @@
-<div align="center">
+# دَرْب DARB Full V1.0
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+منصة عربية للمغتربين والمسافرين والباحثين عن العمل والخدمات.
 
-  <h1>Built with AI Studio</h2>
+## يشمل
+- واجهة عربية RTL متجاوبة.
+- جاهزية الترجمة للإنجليزية.
+- دول + مناطق + مدن مع خصائص مستقلة لكل مدينة.
+- فلسطين: مدينة غزة + الضفة الغربية، ومدن الضفة تحت الضفة الغربية.
+- حسابات مستخدمين وشركات ومقدمي خدمات وباحثي عمل ومعلنين.
+- Google OAuth Backend جاهز للربط بالمفاتيح.
+- وظائف ونشر مجاني.
+- إعلانات وباقات إبراز.
+- PostgreSQL schema + seed.
+- مزودو دفع متعددون مع تفعيل/تعطيل.
+- دعم وسيط دفع عبر إعدادات البيئة.
+- PWA قابلة للتثبيت.
+- API أساسي ولوحة إدارة API.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## تشغيل
+npm install
+npm run dev
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## الإنتاج
+npm run build
+npm start
 
-</div>
+راجع docs/INSTALL_AR.md قبل النشر.

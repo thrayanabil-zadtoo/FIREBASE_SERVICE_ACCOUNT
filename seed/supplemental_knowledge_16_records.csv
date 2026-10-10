@@ -1,0 +1,17 @@
+record_key,scope,country_code,axis,source_file,source_line_start,source_line_end,status,data_class,live_data
+SUP-YE-01,YE,YE,geography,معلومات.txt,1,6,pending_review,supplemental,false
+SUP-YE-02,YE,YE,cities,معلومات.txt,7,8,pending_review,supplemental,false
+SUP-YE-03,YE,YE,terrain,معلومات.txt,9,15,pending_review,supplemental,false
+SUP-YE-04,YE,YE,tourism,معلومات.txt,16,21,pending_review,supplemental,false
+SUP-YE-05,YE,YE,economy_context,معلومات.txt,58,70,pending_review,supplemental,false
+SUP-YE-06,YE,YE,area_and_location,معلومات.txt,52,56,pending_review,supplemental,false
+SUP-YE-07,YE,YE,travel_caveat,معلومات.txt,17,20,pending_review,supplemental,false
+SUP-YE-08,YE,YE,structure_proposal,معلومات.txt,79,82,pending_review,structural_proposal,false
+SUP-AR-01,ARAB,ARAB,geographic_classification,معلومات.txt,23,49,pending_review,supplemental,false
+SUP-AR-02,ARAB,ARAB,area_comparison,معلومات.txt,52,56,pending_review,supplemental,false
+SUP-AR-03,ARAB,ARAB,economic_overview,معلومات.txt,58,70,pending_review,supplemental,false
+SUP-AR-04,ARAB,ARAB,growth_context,معلومات.txt,72,73,pending_review,supplemental,false
+SUP-AR-05,ARAB,ARAB,tourism_season_note,معلومات.txt,75,77,pending_review,supplemental,false
+SUP-AR-06,ARAB,ARAB,knowledge_model,معلومات.txt,79,82,pending_review,structural_proposal,false
+SUP-AR-07,ARAB,ARAB,updateability,معلومات.txt,80,82,pending_review,structural_proposal,false
+SUP-AR-08,ARAB,ARAB,source_provenance,معلومات.txt,79,82,pending_review,structural_proposal,false

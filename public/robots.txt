@@ -1,0 +1,24 @@
+# Robots.txt for DARB Platform
+# Domain: https://darb.zadtoo.com
+
+User-agent: *
+Allow: /
+Disallow: /api/admin/
+Disallow: /api/auth/
+Disallow: /admin/
+
+# Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap Location
+Sitemap: https://darb.zadtoo.com/sitemap.xml

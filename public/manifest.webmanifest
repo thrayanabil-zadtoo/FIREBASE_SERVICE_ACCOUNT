@@ -1,0 +1,27 @@
+{
+  "name": "دَرْب | DARB - المنظومة العربية الموحدة",
+  "short_name": "دَرْب",
+  "start_url": "https://darb.zadtoo.com/",
+  "scope": "https://darb.zadtoo.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "theme_color": "#071a2b",
+  "background_color": "#f6f8fb",
+  "description": "منظومة دَرْب الشاملة للتكامل الاقتصادي والتنقل والذكاء الجغرافي والسيادي للدول العربية.",
+  "categories": ["business", "travel", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/darb-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/darb-visual-preview.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

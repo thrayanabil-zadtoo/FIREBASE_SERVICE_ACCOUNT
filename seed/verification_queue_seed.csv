@@ -1,0 +1,419 @@
+﻿fact_key,country_code,axis_id,axis_name_ar,proposed_value,source_url,verification_status,confidence
+EG:AX1,EG,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+EG:AX2,EG,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+EG:AX3,EG,3,السكن والإيجارات,,,pending,limited
+EG:AX4,EG,4,الفنادق,,,pending,limited
+EG:AX5,EG,5,المطاعم,,,pending,limited
+EG:AX6,EG,6,المستشفيات والطوارئ,,,pending,limited
+EG:AX7,EG,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+EG:AX8,EG,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+EG:AX9,EG,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+EG:AX10,EG,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+EG:AX11,EG,11,الوظائف ونطاقات الرواتب,,,pending,limited
+EG:AX12,EG,12,تكلفة الزواج,,,pending,limited
+EG:AX13,EG,13,التأشيرات,,,pending,limited
+EG:AX14,EG,14,الإقامة,,,pending,limited
+EG:AX15,EG,15,السياحة والميزانية اليومية,,,pending,limited
+EG:AX16,EG,16,التعليم والجامعات والمدارس,,,pending,limited
+EG:AX17,EG,17,التسوق والأسواق,,,pending,limited
+EG:AX18,EG,18,القوانين والعادات,,,pending,limited
+EG:AX19,EG,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+AE:AX1,AE,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+AE:AX2,AE,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+AE:AX3,AE,3,السكن والإيجارات,,,pending,limited
+AE:AX4,AE,4,الفنادق,,,pending,limited
+AE:AX5,AE,5,المطاعم,,,pending,limited
+AE:AX6,AE,6,المستشفيات والطوارئ,,,pending,limited
+AE:AX7,AE,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+AE:AX8,AE,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+AE:AX9,AE,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+AE:AX10,AE,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+AE:AX11,AE,11,الوظائف ونطاقات الرواتب,,,pending,limited
+AE:AX12,AE,12,تكلفة الزواج,,,pending,limited
+AE:AX13,AE,13,التأشيرات,,,pending,limited
+AE:AX14,AE,14,الإقامة,,,pending,limited
+AE:AX15,AE,15,السياحة والميزانية اليومية,,,pending,limited
+AE:AX16,AE,16,التعليم والجامعات والمدارس,,,pending,limited
+AE:AX17,AE,17,التسوق والأسواق,,,pending,limited
+AE:AX18,AE,18,القوانين والعادات,,,pending,limited
+AE:AX19,AE,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+SA:AX1,SA,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+SA:AX2,SA,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+SA:AX3,SA,3,السكن والإيجارات,,,pending,limited
+SA:AX4,SA,4,الفنادق,,,pending,limited
+SA:AX5,SA,5,المطاعم,,,pending,limited
+SA:AX6,SA,6,المستشفيات والطوارئ,,,pending,limited
+SA:AX7,SA,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+SA:AX8,SA,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+SA:AX9,SA,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+SA:AX10,SA,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+SA:AX11,SA,11,الوظائف ونطاقات الرواتب,,,pending,limited
+SA:AX12,SA,12,تكلفة الزواج,,,pending,limited
+SA:AX13,SA,13,التأشيرات,,,pending,limited
+SA:AX14,SA,14,الإقامة,,,pending,limited
+SA:AX15,SA,15,السياحة والميزانية اليومية,,,pending,limited
+SA:AX16,SA,16,التعليم والجامعات والمدارس,,,pending,limited
+SA:AX17,SA,17,التسوق والأسواق,,,pending,limited
+SA:AX18,SA,18,القوانين والعادات,,,pending,limited
+SA:AX19,SA,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+QA:AX1,QA,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+QA:AX2,QA,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+QA:AX3,QA,3,السكن والإيجارات,,,pending,limited
+QA:AX4,QA,4,الفنادق,,,pending,limited
+QA:AX5,QA,5,المطاعم,,,pending,limited
+QA:AX6,QA,6,المستشفيات والطوارئ,,,pending,limited
+QA:AX7,QA,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+QA:AX8,QA,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+QA:AX9,QA,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+QA:AX10,QA,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+QA:AX11,QA,11,الوظائف ونطاقات الرواتب,,,pending,limited
+QA:AX12,QA,12,تكلفة الزواج,,,pending,limited
+QA:AX13,QA,13,التأشيرات,,,pending,limited
+QA:AX14,QA,14,الإقامة,,,pending,limited
+QA:AX15,QA,15,السياحة والميزانية اليومية,,,pending,limited
+QA:AX16,QA,16,التعليم والجامعات والمدارس,,,pending,limited
+QA:AX17,QA,17,التسوق والأسواق,,,pending,limited
+QA:AX18,QA,18,القوانين والعادات,,,pending,limited
+QA:AX19,QA,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+KW:AX1,KW,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+KW:AX2,KW,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+KW:AX3,KW,3,السكن والإيجارات,,,pending,limited
+KW:AX4,KW,4,الفنادق,,,pending,limited
+KW:AX5,KW,5,المطاعم,,,pending,limited
+KW:AX6,KW,6,المستشفيات والطوارئ,,,pending,limited
+KW:AX7,KW,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+KW:AX8,KW,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+KW:AX9,KW,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+KW:AX10,KW,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+KW:AX11,KW,11,الوظائف ونطاقات الرواتب,,,pending,limited
+KW:AX12,KW,12,تكلفة الزواج,,,pending,limited
+KW:AX13,KW,13,التأشيرات,,,pending,limited
+KW:AX14,KW,14,الإقامة,,,pending,limited
+KW:AX15,KW,15,السياحة والميزانية اليومية,,,pending,limited
+KW:AX16,KW,16,التعليم والجامعات والمدارس,,,pending,limited
+KW:AX17,KW,17,التسوق والأسواق,,,pending,limited
+KW:AX18,KW,18,القوانين والعادات,,,pending,limited
+KW:AX19,KW,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+BH:AX1,BH,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+BH:AX2,BH,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+BH:AX3,BH,3,السكن والإيجارات,,,pending,limited
+BH:AX4,BH,4,الفنادق,,,pending,limited
+BH:AX5,BH,5,المطاعم,,,pending,limited
+BH:AX6,BH,6,المستشفيات والطوارئ,,,pending,limited
+BH:AX7,BH,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+BH:AX8,BH,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+BH:AX9,BH,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+BH:AX10,BH,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+BH:AX11,BH,11,الوظائف ونطاقات الرواتب,,,pending,limited
+BH:AX12,BH,12,تكلفة الزواج,,,pending,limited
+BH:AX13,BH,13,التأشيرات,,,pending,limited
+BH:AX14,BH,14,الإقامة,,,pending,limited
+BH:AX15,BH,15,السياحة والميزانية اليومية,,,pending,limited
+BH:AX16,BH,16,التعليم والجامعات والمدارس,,,pending,limited
+BH:AX17,BH,17,التسوق والأسواق,,,pending,limited
+BH:AX18,BH,18,القوانين والعادات,,,pending,limited
+BH:AX19,BH,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+OM:AX1,OM,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+OM:AX2,OM,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+OM:AX3,OM,3,السكن والإيجارات,,,pending,limited
+OM:AX4,OM,4,الفنادق,,,pending,limited
+OM:AX5,OM,5,المطاعم,,,pending,limited
+OM:AX6,OM,6,المستشفيات والطوارئ,,,pending,limited
+OM:AX7,OM,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+OM:AX8,OM,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+OM:AX9,OM,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+OM:AX10,OM,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+OM:AX11,OM,11,الوظائف ونطاقات الرواتب,,,pending,limited
+OM:AX12,OM,12,تكلفة الزواج,,,pending,limited
+OM:AX13,OM,13,التأشيرات,,,pending,limited
+OM:AX14,OM,14,الإقامة,,,pending,limited
+OM:AX15,OM,15,السياحة والميزانية اليومية,,,pending,limited
+OM:AX16,OM,16,التعليم والجامعات والمدارس,,,pending,limited
+OM:AX17,OM,17,التسوق والأسواق,,,pending,limited
+OM:AX18,OM,18,القوانين والعادات,,,pending,limited
+OM:AX19,OM,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+JO:AX1,JO,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+JO:AX2,JO,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+JO:AX3,JO,3,السكن والإيجارات,,,pending,limited
+JO:AX4,JO,4,الفنادق,,,pending,limited
+JO:AX5,JO,5,المطاعم,,,pending,limited
+JO:AX6,JO,6,المستشفيات والطوارئ,,,pending,limited
+JO:AX7,JO,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+JO:AX8,JO,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+JO:AX9,JO,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+JO:AX10,JO,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+JO:AX11,JO,11,الوظائف ونطاقات الرواتب,,,pending,limited
+JO:AX12,JO,12,تكلفة الزواج,,,pending,limited
+JO:AX13,JO,13,التأشيرات,,,pending,limited
+JO:AX14,JO,14,الإقامة,,,pending,limited
+JO:AX15,JO,15,السياحة والميزانية اليومية,,,pending,limited
+JO:AX16,JO,16,التعليم والجامعات والمدارس,,,pending,limited
+JO:AX17,JO,17,التسوق والأسواق,,,pending,limited
+JO:AX18,JO,18,القوانين والعادات,,,pending,limited
+JO:AX19,JO,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+MA:AX1,MA,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+MA:AX2,MA,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+MA:AX3,MA,3,السكن والإيجارات,,,pending,limited
+MA:AX4,MA,4,الفنادق,,,pending,limited
+MA:AX5,MA,5,المطاعم,,,pending,limited
+MA:AX6,MA,6,المستشفيات والطوارئ,,,pending,limited
+MA:AX7,MA,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+MA:AX8,MA,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+MA:AX9,MA,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+MA:AX10,MA,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+MA:AX11,MA,11,الوظائف ونطاقات الرواتب,,,pending,limited
+MA:AX12,MA,12,تكلفة الزواج,,,pending,limited
+MA:AX13,MA,13,التأشيرات,,,pending,limited
+MA:AX14,MA,14,الإقامة,,,pending,limited
+MA:AX15,MA,15,السياحة والميزانية اليومية,,,pending,limited
+MA:AX16,MA,16,التعليم والجامعات والمدارس,,,pending,limited
+MA:AX17,MA,17,التسوق والأسواق,,,pending,limited
+MA:AX18,MA,18,القوانين والعادات,,,pending,limited
+MA:AX19,MA,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+TN:AX1,TN,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+TN:AX2,TN,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+TN:AX3,TN,3,السكن والإيجارات,,,pending,limited
+TN:AX4,TN,4,الفنادق,,,pending,limited
+TN:AX5,TN,5,المطاعم,,,pending,limited
+TN:AX6,TN,6,المستشفيات والطوارئ,,,pending,limited
+TN:AX7,TN,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+TN:AX8,TN,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+TN:AX9,TN,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+TN:AX10,TN,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+TN:AX11,TN,11,الوظائف ونطاقات الرواتب,,,pending,limited
+TN:AX12,TN,12,تكلفة الزواج,,,pending,limited
+TN:AX13,TN,13,التأشيرات,,,pending,limited
+TN:AX14,TN,14,الإقامة,,,pending,limited
+TN:AX15,TN,15,السياحة والميزانية اليومية,,,pending,limited
+TN:AX16,TN,16,التعليم والجامعات والمدارس,,,pending,limited
+TN:AX17,TN,17,التسوق والأسواق,,,pending,limited
+TN:AX18,TN,18,القوانين والعادات,,,pending,limited
+TN:AX19,TN,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+DZ:AX1,DZ,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+DZ:AX2,DZ,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+DZ:AX3,DZ,3,السكن والإيجارات,,,pending,limited
+DZ:AX4,DZ,4,الفنادق,,,pending,limited
+DZ:AX5,DZ,5,المطاعم,,,pending,limited
+DZ:AX6,DZ,6,المستشفيات والطوارئ,,,pending,limited
+DZ:AX7,DZ,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+DZ:AX8,DZ,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+DZ:AX9,DZ,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+DZ:AX10,DZ,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+DZ:AX11,DZ,11,الوظائف ونطاقات الرواتب,,,pending,limited
+DZ:AX12,DZ,12,تكلفة الزواج,,,pending,limited
+DZ:AX13,DZ,13,التأشيرات,,,pending,limited
+DZ:AX14,DZ,14,الإقامة,,,pending,limited
+DZ:AX15,DZ,15,السياحة والميزانية اليومية,,,pending,limited
+DZ:AX16,DZ,16,التعليم والجامعات والمدارس,,,pending,limited
+DZ:AX17,DZ,17,التسوق والأسواق,,,pending,limited
+DZ:AX18,DZ,18,القوانين والعادات,,,pending,limited
+DZ:AX19,DZ,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+LB:AX1,LB,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+LB:AX2,LB,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+LB:AX3,LB,3,السكن والإيجارات,,,pending,limited
+LB:AX4,LB,4,الفنادق,,,pending,limited
+LB:AX5,LB,5,المطاعم,,,pending,limited
+LB:AX6,LB,6,المستشفيات والطوارئ,,,pending,limited
+LB:AX7,LB,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+LB:AX8,LB,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+LB:AX9,LB,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+LB:AX10,LB,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+LB:AX11,LB,11,الوظائف ونطاقات الرواتب,,,pending,limited
+LB:AX12,LB,12,تكلفة الزواج,,,pending,limited
+LB:AX13,LB,13,التأشيرات,,,pending,limited
+LB:AX14,LB,14,الإقامة,,,pending,limited
+LB:AX15,LB,15,السياحة والميزانية اليومية,,,pending,limited
+LB:AX16,LB,16,التعليم والجامعات والمدارس,,,pending,limited
+LB:AX17,LB,17,التسوق والأسواق,,,pending,limited
+LB:AX18,LB,18,القوانين والعادات,,,pending,limited
+LB:AX19,LB,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+IQ:AX1,IQ,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+IQ:AX2,IQ,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+IQ:AX3,IQ,3,السكن والإيجارات,,,pending,limited
+IQ:AX4,IQ,4,الفنادق,,,pending,limited
+IQ:AX5,IQ,5,المطاعم,,,pending,limited
+IQ:AX6,IQ,6,المستشفيات والطوارئ,,,pending,limited
+IQ:AX7,IQ,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+IQ:AX8,IQ,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+IQ:AX9,IQ,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+IQ:AX10,IQ,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+IQ:AX11,IQ,11,الوظائف ونطاقات الرواتب,,,pending,limited
+IQ:AX12,IQ,12,تكلفة الزواج,,,pending,limited
+IQ:AX13,IQ,13,التأشيرات,,,pending,limited
+IQ:AX14,IQ,14,الإقامة,,,pending,limited
+IQ:AX15,IQ,15,السياحة والميزانية اليومية,,,pending,limited
+IQ:AX16,IQ,16,التعليم والجامعات والمدارس,,,pending,limited
+IQ:AX17,IQ,17,التسوق والأسواق,,,pending,limited
+IQ:AX18,IQ,18,القوانين والعادات,,,pending,limited
+IQ:AX19,IQ,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+PS:AX1,PS,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+PS:AX2,PS,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+PS:AX3,PS,3,السكن والإيجارات,,,pending,limited
+PS:AX4,PS,4,الفنادق,,,pending,limited
+PS:AX5,PS,5,المطاعم,,,pending,limited
+PS:AX6,PS,6,المستشفيات والطوارئ,,,pending,limited
+PS:AX7,PS,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+PS:AX8,PS,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+PS:AX9,PS,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+PS:AX10,PS,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+PS:AX11,PS,11,الوظائف ونطاقات الرواتب,,,pending,limited
+PS:AX12,PS,12,تكلفة الزواج,,,pending,limited
+PS:AX13,PS,13,التأشيرات,,,pending,limited
+PS:AX14,PS,14,الإقامة,,,pending,limited
+PS:AX15,PS,15,السياحة والميزانية اليومية,,,pending,limited
+PS:AX16,PS,16,التعليم والجامعات والمدارس,,,pending,limited
+PS:AX17,PS,17,التسوق والأسواق,,,pending,limited
+PS:AX18,PS,18,القوانين والعادات,,,pending,limited
+PS:AX19,PS,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+LY:AX1,LY,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+LY:AX2,LY,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+LY:AX3,LY,3,السكن والإيجارات,,,pending,limited
+LY:AX4,LY,4,الفنادق,,,pending,limited
+LY:AX5,LY,5,المطاعم,,,pending,limited
+LY:AX6,LY,6,المستشفيات والطوارئ,,,pending,limited
+LY:AX7,LY,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+LY:AX8,LY,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+LY:AX9,LY,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+LY:AX10,LY,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+LY:AX11,LY,11,الوظائف ونطاقات الرواتب,,,pending,limited
+LY:AX12,LY,12,تكلفة الزواج,,,pending,limited
+LY:AX13,LY,13,التأشيرات,,,pending,limited
+LY:AX14,LY,14,الإقامة,,,pending,limited
+LY:AX15,LY,15,السياحة والميزانية اليومية,,,pending,limited
+LY:AX16,LY,16,التعليم والجامعات والمدارس,,,pending,limited
+LY:AX17,LY,17,التسوق والأسواق,,,pending,limited
+LY:AX18,LY,18,القوانين والعادات,,,pending,limited
+LY:AX19,LY,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+SD:AX1,SD,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+SD:AX2,SD,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+SD:AX3,SD,3,السكن والإيجارات,,,pending,limited
+SD:AX4,SD,4,الفنادق,,,pending,limited
+SD:AX5,SD,5,المطاعم,,,pending,limited
+SD:AX6,SD,6,المستشفيات والطوارئ,,,pending,limited
+SD:AX7,SD,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+SD:AX8,SD,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+SD:AX9,SD,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+SD:AX10,SD,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+SD:AX11,SD,11,الوظائف ونطاقات الرواتب,,,pending,limited
+SD:AX12,SD,12,تكلفة الزواج,,,pending,limited
+SD:AX13,SD,13,التأشيرات,,,pending,limited
+SD:AX14,SD,14,الإقامة,,,pending,limited
+SD:AX15,SD,15,السياحة والميزانية اليومية,,,pending,limited
+SD:AX16,SD,16,التعليم والجامعات والمدارس,,,pending,limited
+SD:AX17,SD,17,التسوق والأسواق,,,pending,limited
+SD:AX18,SD,18,القوانين والعادات,,,pending,limited
+SD:AX19,SD,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+SO:AX1,SO,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+SO:AX2,SO,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+SO:AX3,SO,3,السكن والإيجارات,,,pending,limited
+SO:AX4,SO,4,الفنادق,,,pending,limited
+SO:AX5,SO,5,المطاعم,,,pending,limited
+SO:AX6,SO,6,المستشفيات والطوارئ,,,pending,limited
+SO:AX7,SO,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+SO:AX8,SO,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+SO:AX9,SO,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+SO:AX10,SO,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+SO:AX11,SO,11,الوظائف ونطاقات الرواتب,,,pending,limited
+SO:AX12,SO,12,تكلفة الزواج,,,pending,limited
+SO:AX13,SO,13,التأشيرات,,,pending,limited
+SO:AX14,SO,14,الإقامة,,,pending,limited
+SO:AX15,SO,15,السياحة والميزانية اليومية,,,pending,limited
+SO:AX16,SO,16,التعليم والجامعات والمدارس,,,pending,limited
+SO:AX17,SO,17,التسوق والأسواق,,,pending,limited
+SO:AX18,SO,18,القوانين والعادات,,,pending,limited
+SO:AX19,SO,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+DJ:AX1,DJ,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+DJ:AX2,DJ,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+DJ:AX3,DJ,3,السكن والإيجارات,,,pending,limited
+DJ:AX4,DJ,4,الفنادق,,,pending,limited
+DJ:AX5,DJ,5,المطاعم,,,pending,limited
+DJ:AX6,DJ,6,المستشفيات والطوارئ,,,pending,limited
+DJ:AX7,DJ,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+DJ:AX8,DJ,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+DJ:AX9,DJ,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+DJ:AX10,DJ,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+DJ:AX11,DJ,11,الوظائف ونطاقات الرواتب,,,pending,limited
+DJ:AX12,DJ,12,تكلفة الزواج,,,pending,limited
+DJ:AX13,DJ,13,التأشيرات,,,pending,limited
+DJ:AX14,DJ,14,الإقامة,,,pending,limited
+DJ:AX15,DJ,15,السياحة والميزانية اليومية,,,pending,limited
+DJ:AX16,DJ,16,التعليم والجامعات والمدارس,,,pending,limited
+DJ:AX17,DJ,17,التسوق والأسواق,,,pending,limited
+DJ:AX18,DJ,18,القوانين والعادات,,,pending,limited
+DJ:AX19,DJ,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+MR:AX1,MR,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+MR:AX2,MR,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+MR:AX3,MR,3,السكن والإيجارات,,,pending,limited
+MR:AX4,MR,4,الفنادق,,,pending,limited
+MR:AX5,MR,5,المطاعم,,,pending,limited
+MR:AX6,MR,6,المستشفيات والطوارئ,,,pending,limited
+MR:AX7,MR,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+MR:AX8,MR,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+MR:AX9,MR,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+MR:AX10,MR,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+MR:AX11,MR,11,الوظائف ونطاقات الرواتب,,,pending,limited
+MR:AX12,MR,12,تكلفة الزواج,,,pending,limited
+MR:AX13,MR,13,التأشيرات,,,pending,limited
+MR:AX14,MR,14,الإقامة,,,pending,limited
+MR:AX15,MR,15,السياحة والميزانية اليومية,,,pending,limited
+MR:AX16,MR,16,التعليم والجامعات والمدارس,,,pending,limited
+MR:AX17,MR,17,التسوق والأسواق,,,pending,limited
+MR:AX18,MR,18,القوانين والعادات,,,pending,limited
+MR:AX19,MR,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+YE:AX1,YE,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+YE:AX2,YE,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+YE:AX3,YE,3,السكن والإيجارات,,,pending,limited
+YE:AX4,YE,4,الفنادق,,,pending,limited
+YE:AX5,YE,5,المطاعم,,,pending,limited
+YE:AX6,YE,6,المستشفيات والطوارئ,,,pending,limited
+YE:AX7,YE,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+YE:AX8,YE,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+YE:AX9,YE,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+YE:AX10,YE,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+YE:AX11,YE,11,الوظائف ونطاقات الرواتب,,,pending,limited
+YE:AX12,YE,12,تكلفة الزواج,,,pending,limited
+YE:AX13,YE,13,التأشيرات,,,pending,limited
+YE:AX14,YE,14,الإقامة,,,pending,limited
+YE:AX15,YE,15,السياحة والميزانية اليومية,,,pending,limited
+YE:AX16,YE,16,التعليم والجامعات والمدارس,,,pending,limited
+YE:AX17,YE,17,التسوق والأسواق,,,pending,limited
+YE:AX18,YE,18,القوانين والعادات,,,pending,limited
+YE:AX19,YE,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+SY:AX1,SY,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+SY:AX2,SY,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+SY:AX3,SY,3,السكن والإيجارات,,,pending,limited
+SY:AX4,SY,4,الفنادق,,,pending,limited
+SY:AX5,SY,5,المطاعم,,,pending,limited
+SY:AX6,SY,6,المستشفيات والطوارئ,,,pending,limited
+SY:AX7,SY,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+SY:AX8,SY,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+SY:AX9,SY,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+SY:AX10,SY,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+SY:AX11,SY,11,الوظائف ونطاقات الرواتب,,,pending,limited
+SY:AX12,SY,12,تكلفة الزواج,,,pending,limited
+SY:AX13,SY,13,التأشيرات,,,pending,limited
+SY:AX14,SY,14,الإقامة,,,pending,limited
+SY:AX15,SY,15,السياحة والميزانية اليومية,,,pending,limited
+SY:AX16,SY,16,التعليم والجامعات والمدارس,,,pending,limited
+SY:AX17,SY,17,التسوق والأسواق,,,pending,limited
+SY:AX18,SY,18,القوانين والعادات,,,pending,limited
+SY:AX19,SY,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited
+KM:AX1,KM,1,العاصمة والمدن الرئيسية والعملة والمنطقة الزمنية,,,pending,limited
+KM:AX2,KM,2,سعر الدولار مقابل العملة المحلية,,,pending,limited
+KM:AX3,KM,3,السكن والإيجارات,,,pending,limited
+KM:AX4,KM,4,الفنادق,,,pending,limited
+KM:AX5,KM,5,المطاعم,,,pending,limited
+KM:AX6,KM,6,المستشفيات والطوارئ,,,pending,limited
+KM:AX7,KM,7,الشرطة والإسعاف والإطفاء,,,pending,limited
+KM:AX8,KM,8,الاتصالات وشرائح SIM والإنترنت,,,pending,limited
+KM:AX9,KM,9,الخرائط والنقل والتاكسي والتوصيل والبنوك والحكومة,,,pending,limited
+KM:AX10,KM,10,النقل العام وتأجير السيارات والتأمين والرخصة,,,pending,limited
+KM:AX11,KM,11,الوظائف ونطاقات الرواتب,,,pending,limited
+KM:AX12,KM,12,تكلفة الزواج,,,pending,limited
+KM:AX13,KM,13,التأشيرات,,,pending,limited
+KM:AX14,KM,14,الإقامة,,,pending,limited
+KM:AX15,KM,15,السياحة والميزانية اليومية,,,pending,limited
+KM:AX16,KM,16,التعليم والجامعات والمدارس,,,pending,limited
+KM:AX17,KM,17,التسوق والأسواق,,,pending,limited
+KM:AX18,KM,18,القوانين والعادات,,,pending,limited
+KM:AX19,KM,19,السلامة والتحذيرات والمخاطر الطبيعية والروابط الحكومية,,,pending,limited

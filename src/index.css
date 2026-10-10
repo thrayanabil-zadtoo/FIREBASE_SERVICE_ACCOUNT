@@ -1,0 +1,413 @@
+@import "tailwindcss";
+@import "./darb-ai.css";
+
+@layer base {
+  body {
+    font-family: 'Cairo', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    direction: rtl;
+  }
+
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+  }
+}
+
+/* =========================================================================
+   DARB SOVEREIGN AESTHETICS & ATMOSPHERIC LIGHTING
+   ========================================================================= */
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes floatSubtle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.darb-ambient-radial {
+  background: radial-gradient(circle at 50% 0%, rgba(27, 180, 158, 0.12) 0%, rgba(7, 26, 43, 0.02) 65%, transparent 100%);
+}
+
+.darb-glass-surface {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.darb-glass-dark {
+  background: rgba(7, 26, 43, 0.82);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(139, 228, 212, 0.18);
+}
+
+.darb-glow-border {
+  position: relative;
+}
+.darb-glow-border::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, rgba(27, 180, 158, 0.4), rgba(7, 26, 43, 0.1));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.darb-hover-lift {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.darb-hover-lift:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 32px -8px rgba(7, 26, 43, 0.12);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* DARB_AI_V1_9 */
+.darbAI {
+  direction: rtl;
+  font-family: inherit;
+}
+.aiFab {
+  position: fixed;
+  left: 22px;
+  bottom: 22px;
+  width: 60px;
+  height: 60px;
+  border: 0;
+  border-radius: 50%;
+  z-index: 100;
+  background: linear-gradient(145deg, #18b6a1, #0b7180);
+  color: #fff;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.aiFab:hover {
+  transform: scale(1.05);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.35);
+}
+.aiFab span {
+  font-size: 20px;
+}
+.aiFab b {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+.aiPanel {
+  position: fixed;
+  left: 22px;
+  bottom: 94px;
+  width: min(880px, calc(100vw - 44px));
+  height: min(620px, calc(100vh - 120px));
+  background: #f7fafb;
+  border: 1px solid #d7e2e6;
+  border-radius: 20px;
+  z-index: 99;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.aiHeader {
+  height: 60px;
+  background: #08283c;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 18px;
+  shrink: 0;
+}
+.aiHeader strong {
+  display: block;
+  font-size: 16px;
+  color: #8be4d4;
+}
+.aiHeader small {
+  font-size: 11px;
+  color: #a0c2cd;
+}
+.aiHeader button {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+.aiHeader button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+.aiBody, .aiLayout {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+}
+.aiHistory {
+  width: 220px;
+  background: #ebf1f3;
+  border-left: 1px solid #d8e3e6;
+  padding: 14px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+.newChat {
+  background: #0b8d83;
+  color: #fff;
+  border: 0;
+  border-radius: 12px;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 12px;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 12px;
+  transition: background 0.15s ease;
+}
+.newChat:hover {
+  background: #14a89d;
+}
+.historyTitle {
+  font-size: 11px;
+  color: #5c747d;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+.emptyHistory {
+  font-size: 11px;
+  color: #8fa4ab;
+  text-align: center;
+  padding: 20px 0;
+}
+.historyItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #dce5e8;
+  border-radius: 10px;
+  margin-bottom: 6px;
+  padding: 6px 10px;
+  gap: 6px;
+}
+.historyItem.selected {
+  border-color: #0b8d83;
+  background: #e6f4f3;
+}
+.historyItem button:first-child {
+  background: transparent;
+  border: 0;
+  text-align: right;
+  flex: 1;
+  font-size: 12px;
+  color: #27474f;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.deleteChat {
+  background: transparent;
+  border: 0;
+  color: #92a4a8;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 2px 4px;
+}
+.deleteChat:hover {
+  color: #d9534f;
+}
+.aiChat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  background: #fff;
+}
+.aiMessages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.aiWelcome {
+  margin: auto;
+  text-align: center;
+  max-width: 420px;
+  padding: 24px 12px;
+}
+.aiOrb {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #08283c, #0b8d83);
+  color: #8be4d4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 12px;
+  font-size: 24px;
+  font-weight: 800;
+  box-shadow: 0 8px 24px rgba(11, 141, 131, 0.3);
+}
+.aiWelcome h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #08283c;
+  margin-bottom: 6px;
+}
+.aiWelcome p {
+  font-size: 13px;
+  color: #4b6b75;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+.aiWelcome span {
+  font-size: 11px;
+  color: #7b979f;
+  display: block;
+}
+.aiMsg {
+  display: flex;
+  flex-direction: column;
+}
+.aiMsg.user {
+  align-items: flex-end;
+}
+.aiMsg.assistant {
+  align-items: flex-start;
+}
+.aiMsg > div {
+  max-width: 80%;
+  padding: 12px 16px;
+  border-radius: 16px;
+  line-height: 1.7;
+  font-size: 13px;
+}
+.aiMsg.user > div {
+  background: #e6f4f3;
+  color: #164c52;
+  border-top-left-radius: 4px;
+}
+.aiMsg.assistant > div {
+  background: #08283c;
+  color: #f1f7f9;
+  border-top-right-radius: 4px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+.aiSource {
+  display: block;
+  font-size: 10px;
+  color: #8be4d4;
+  margin-top: 6px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 4px;
+}
+.aiComposer {
+  padding: 12px 16px;
+  border-top: 1px solid #e0e8ea;
+  background: #fafcfc;
+}
+.aiComposer textarea {
+  width: 100%;
+  min-height: 52px;
+  max-height: 110px;
+  resize: none;
+  border: 1px solid #ccdadd;
+  border-radius: 14px;
+  padding: 10px 14px;
+  font: inherit;
+  font-size: 13px;
+  box-sizing: border-box;
+  outline: none;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+.aiComposer textarea:focus {
+  border-color: #0b8d83;
+}
+.aiActions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 8px;
+}
+.aiActions button {
+  border: 0;
+  border-radius: 10px;
+  padding: 9px 14px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: inherit;
+  transition: opacity 0.15s ease;
+}
+.aiActions button:hover {
+  opacity: 0.9;
+}
+.webBtn {
+  background: #ebf3f5;
+  color: #27474f;
+  border: 1px solid #d2dfe3 !important;
+}
+.sendBtn {
+  background: #0b8d83;
+  color: #fff;
+}
+
+@media (max-width: 700px) {
+  .aiFab {
+    left: 14px;
+    bottom: 14px;
+    width: 54px;
+    height: 54px;
+  }
+  .aiPanel {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100dvh;
+    border-radius: 0;
+    border: 0;
+  }
+  .aiHistory {
+    display: none;
+  }
+  .aiMessages {
+    padding: 14px;
+  }
+  .aiWelcome {
+    margin: 40px auto;
+  }
+  .aiMsg > div {
+    max-width: 90%;
+    font-size: 12px;
+  }
+  .aiActions button {
+    flex: 1;
+  }
+}
+
